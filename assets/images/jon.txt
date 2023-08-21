@@ -1,0 +1,26 @@
+.timeline::after {
+        left: 31px;
+        top: 3%;
+        bottom: 22%;
+        height: 78%;
+    }
+
+    .timeline_container {
+        width: 100%;
+        padding-left: 70px;
+        padding-right: 25px;
+    }
+
+
+    .timeline_container::before {
+        left: 60px;
+        border: medium solid white;
+        border-width: 10px 10px 10px 0;
+        border-color: transparent white transparent transparent;
+    }
+
+
+    .left::after,
+    .right::after {
+        left: 18px;
+    }

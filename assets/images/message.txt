@@ -1,0 +1,29 @@
+<div class="container">
+                <h2 class="faq pt-58">FAQ</h2>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion accordion-flush" id="accordionFlushExample">
+                        <div class="accordion-item mb-2">
+                            <h2 class="accordion-header" id="flush-headingOne">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#flush-collapseOne" aria-expanded="false"
+                                    aria-controls="flush-collapseOne">
+                                    Volutpat consequat dictumst vel donec.
+                                </button>
+                            </h2>
+                            <div id="flush-collapseOne" class="accordion-collapse collapse"
+                                aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">Amet vitae hendrerit facilisi gravida. Nascetur sed luctus
+                                    sit
+                                    elit
+                                    in mi orci. Aliquet ullamcorper quis felis at
+                                    scelerisque non faucibus. Amet vitae hendrerit facilisi gravida. Nascetur sed luctus
+                                    sit
+                                    elit in mi orci. Aliquet
+                                    ullamcorper quis felis at scelerisque non faucibus.Amet vitae hendrerit facilisi
+                                    gravida.
+                                    Nascetur sed luctus sit elit
+                                    in mi orci. Aliquet ullamcorper quis felis at scelerisque non faucibus.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
